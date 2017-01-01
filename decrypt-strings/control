@@ -1,0 +1,9 @@
+Package: com.nabla-c0d3.decryptstrings
+Name: DecryptStrings
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Alban Diquet
+Author: Alban Diquet
+Section: Tweaks
